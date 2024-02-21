@@ -1,0 +1,4 @@
+
+
+
+cankilltheplayer = true;
